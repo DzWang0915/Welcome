@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+  cout << "Welcome to Dz's github world!" << '\n';
+  cout << "From this day to the end of my days, I'll keep working on developing games." << '\n';
+  cout << "Hopefully, I can get into the world I really love." << endl;
+  
+  cout << "I really love Netease, Valve, Riot, EA, Rockstar, Naughty Dog, 2K. I hope I can join them one day!!!!!!!" << endl;
+  
+  /*Never return, never stop, never say I tried. Only I'm still trying.*/
+  
+  return 0;/*return good works!*/
+}
